@@ -34,6 +34,7 @@ header {
 }
 
 header img {
+  border-radius: 0;
   width: 200px;
 }
 
@@ -49,7 +50,7 @@ header img {
 }
 
 .start h1 {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-size: xx-large;
 }
 
@@ -99,14 +100,13 @@ img {
   margin-bottom: 10px;
 }
 
-.bg-orange h2,
-h5 {
+.bg-orange h2 {
   color: white;
   padding: 20px;
-  font-size: xx-large;
+  font-size: 1.8em;
 }
 
-.bg-orange h5 {
+.bg-orange p {
   padding-bottom: 0;
 }
 
