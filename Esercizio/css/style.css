@@ -40,13 +40,14 @@ header img {
 
 .container {
   text-align: center;
-  padding: 50px;
+  padding: 30px;
 }
 
 .container-card {
   text-align: center;
-  padding: 50px;
+  padding: 30px;
   border: 2 solid grey;
+  margin-bottom: 50px;
 }
 
 .start h1 {
